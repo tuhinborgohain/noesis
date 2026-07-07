@@ -1,0 +1,11 @@
+raw/**
+wiki/concepts/**
+wiki/entities/**
+wiki/projects/**
+synth/**
+meta/**
+!**/README.md
+!**/.gitkeep
+.obsidian/
+.DS_Store
+Thumbs.db
